@@ -40,3 +40,7 @@ git diff
 
 git add .
 git commit -m "apply patch for reason for patch"
+
+tejaghankot@gmail.com
+
+Teja2005_lol
